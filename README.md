@@ -73,7 +73,7 @@ snake-game/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/NeNish)
+Made with ❤️ by E S Nishant(https://github.com/NeNish)
 *Pull requests and forks are welcome!*
 
 ---
